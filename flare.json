@@ -1,0 +1,742 @@
+{
+    "name": "Effinger",
+    "children": [{
+        "name": "Co-Workers",
+        "children": [{
+            "name": "SALOME HOSTETTLER",
+            "children": [{
+                "name": "salome@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.facebook.com/salome.hostettler",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/salome-hostettler.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "DOMENICA WINKLER",
+            "children": [{
+                "name": "domenica@effinger.ch",
+                "size": 3534
+            }, {
+                "name": "https://www.instagram.com/effingerbern",
+                "size": 5731
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/domenica-winkler.jpg",
+                "size": 7840
+            }]
+        }, {
+            "name": "URS VÖGELI",
+            "children": [{
+                "name": "urs@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.facebook.com/urs.vogeli.3",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/urs-voegeli.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "CLAUDIA SCHÄREN",
+            "children": [{
+                "name": "claudia@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.a-und-o.ch/",
+                "size": 3812
+            }, {
+                "name": "tel:+4178 789 63 77",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/claudia-schaeren.jpg",
+                "size": 3812
+            }]
+        }, {
+            "name": "ROLAND STUDER",
+            "children": [{
+                "name": "roland@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "tel:+4179 746 48 59",
+                "size": 3812
+            }, {
+                "name": "http://hitobito.com/",
+                "size": 6714
+            }, {
+                "name": "https://twitter.com/rolandstuder",
+                "size": 743
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/roland-studer.jpg",
+                "size": 743
+            }]
+        }, {
+            "name": "OLEG LAVROVSKY",
+            "children": [{
+                "name": "oleg@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://datalets.ch/",
+                "size": 3812
+            }, {
+                "name": "https://twitter.com/loleg",
+                "size": 6714
+            }, {
+                "name": "https://www.facebook.com/lavrovsky",
+                "size": 743
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/oleg-lavrovsky.jpg",
+                "size": 3938
+            }]
+        }, {
+            "name": "MARCO JAKOB",
+            "children": [{
+                "name": "marco@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "tel:+4131 398 20 22",
+                "size": 3812
+            }, {
+                "name": "http://www.makery.ch/",
+                "size": 6714
+            }, {
+                "name": "https://twitter.com/marco_jakob",
+                "size": 743
+            }, {
+                "name": "https://www.facebook.com/marco.jakob.x",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/marco-jakob.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "ISMAEL BASLER",
+            "children": [{
+                "name": "ismael@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.umbaulokal.ch/",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/ismael-basler.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "CLAUDINE ETTER",
+            "children": [{
+                "name": "claudine@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.atelier-c.ch/",
+                "size": 3812
+            }, {
+                "name": "https://www.instagram.com/atelier.c",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/claudine-etter.jpg",
+                "size": 743
+            }]
+        }, {
+            "name": "TIMON ANDEER",
+            "children": [{
+                "name": "timon.a@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.facebook.com/monmonupcycling",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/timon-andeer.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "TIMON MARMET",
+            "children": [{
+                "name": "timon.m@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.facebook.com/timon.marmet",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/timon-marmet.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "CHRISTA-MARIA TOBLER",
+            "children": [{
+                "name": "christamaria@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/christa-maria-tobler.jpg",
+                "size": 3812
+            }]
+        }, {
+            "name": "HANNE VIE",
+            "children": [{
+                "name": "hanne@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/hanne-vie.jpg",
+                "size": 3812
+            }]
+        }, {
+            "name": "DAMARIS BERGER",
+            "children": [{
+                "name": "damaris@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.dmrsbrgr.com/",
+                "size": 3812
+            }, {
+                "name": "https://www.instagram.com/dmrsbrgr",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/damaris-berger.jpg",
+                "size": 743
+            }]
+        }, {
+            "name": "JONATHAN HESS",
+            "children": [{
+                "name": "jonathan@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "tel:+4179 755 26 61",
+                "size": 3812
+            }, {
+                "name": "http://www.movingwater.ch/",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/jonathan-hess.jpg",
+                "size": 743
+            }]
+        }, {
+            "name": "GRAZIELLA BÄRTSCH",
+            "children": [{
+                "name": "graziella@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/graziella-baertsch.jpg",
+                "size": 3812
+            }]
+        }, {
+            "name": "DANIEL OSTERWALDER",
+            "children": [{
+                "name": "daniel@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.visualdynamics.ch/",
+                "size": 3812
+            }, {
+                "name": "https://twitter.com/DOsterwalder",
+                "size": 6714
+            }, {
+                "name": "https://www.facebook.com/daniel.osterwalder.7",
+                "size": 743
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/daniel-osterwalder.jpg",
+                "size": 743
+            }]
+        }, {
+            "name": "MATTHIAS TOBLER",
+            "children": [{
+                "name": "matthias@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.iveinstitute.org/",
+                "size": 3812
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/matthias-tobler.jpg",
+                "size": 6714
+            }]
+        }, {
+            "name": "DAVID BRÜHLMEIER",
+            "children": [{
+                "name": "dave@effinger.ch",
+                "size": 3938
+            }, {
+                "name": "http://www.villageoffice.ch/about/dave",
+                "size": 3812
+            }, {
+                "name": "https://twitter.com/ResponsiveDave",
+                "size": 6714
+            }, {
+                "name": "https://www.effinger.ch/images/effianer/david-bruehlmeier.jpg",
+                "size": 743
+            }]
+        }]
+    }, {
+        "name": "Students",
+        "children": [{
+            "name": "KHASBULATOV YUSUF",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "AFEWERKI TESFAMICHAEL",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "JEYAPALAN SUJEEVAN",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "JUMAAH RAMI",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "ALTAHAN MOHAMMAD",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "GAKYITSANG LHAMO",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "AMINI JAMILA",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "ALLAHAM HUSSAM EDDIN",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "PACKIYANATHAN GAJENDARAN",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "SABERI FARID",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "CHALEH DEAA ALHAK",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "RUSTOM TEKLI",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "NAZARI FATIMA",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "size": 1983
+            }, {
+                "name": "ColorInterpolator",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }, {
+            "name": "HIELAL MANNAR",
+            "children": [{
+                "name": "tel:'...'",
+                "size": 1983
+            }, {
+                "name": "",
+                "size": 2047
+            }, {
+                "name": "DateInterpolator",
+                "size": 1375
+            }, {
+                "name": "Interpolator",
+                "size": 8746
+            }, {
+                "name": "MatrixInterpolator",
+                "size": 2202
+            }, {
+                "name": "NumberInterpolator",
+                "size": 1382
+            }, {
+                "name": "ObjectInterpolator",
+                "size": 1629
+            }, {
+                "name": "PointInterpolator",
+                "size": 1675
+            }, {
+                "name": "RectangleInterpolator",
+                "size": 2042
+            }]
+        }]
+    }, {
+        "name": "Iternship Companies",
+        "children": [{
+            "name": "Cubetech GmbH",
+            "children": []
+        }, {
+            "name": "Genossenschaft Migros Aare",
+            "size": 1759
+        }, {
+            "name": "Liip AG",
+            "size": 2165
+        }, {
+            "name": "Swisscom AG",
+            "size": 586
+        }, {
+            "name": "Adesso Schweiz AG",
+            "size": 3331
+        }, {
+            "name": "Gonnado AG",
+            "size": 772
+        }, {
+            "name": "Buisness4you",
+            "size": 3322
+        }, {
+            "name": "Nothing GmbH",
+            "size": 3322
+        }, {
+            "name": "Apps with love GmbH",
+            "size": 3322
+        }, {
+            "name": "Dataletz",
+            "size": 3322
+        }, {
+            "name": "89Grad",
+            "size": 3322
+        }, {
+            "name": "Die Mobiliar",
+            "size": 3322
+        }, {
+            "name": "Puzzle ITC GmbH",
+            "size": 3322
+        }, {
+            "name": "Smartfactory GmbH",
+            "size": 3322
+        }, {
+            "name": "AXON IVY",
+            "size": 3322
+        }, {
+            "name": "Dreipol GmbH",
+            "size": 3322
+        }]
+    } ]
+}
